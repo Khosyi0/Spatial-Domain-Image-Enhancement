@@ -36,7 +36,7 @@ Gambar Asli:
 
 Gambar Hitam Putih
 
-![Alt text](Output/grayed/mycat_grayed.jpg)
+![Alt text](Output/Grayed/mycat_grayed.jpg)
 
 ## Point Processing
 Point processing adalah teknik yang memproses setiap piksel pada citra secara individual tanpa memperhitungkan tetangga pikselnya. Fungsi transformasi diterapkan langsung pada setiap piksel, misalnya, untuk meningkatkan kecerahan, mengubah kontras, atau menyesuaikan intensitas warna. Dalam metode Point Processing, terdapat beberapa contoh Image Enhancement:
@@ -179,7 +179,7 @@ def clahe_enhancement(image_path):
 
 ![Alt text](Output/CLAHE/mycat_grayed_CLAHE.jpg)
 
-## Perbandingan Gambar Point Processing
+# Perbandingan Gambar Point Processing
 ![Alt text](PointProcessing_Comparison.png)
 ![Alt text](HistogramEqualization_Comparison.png)
 ![Alt text](CLAHE_Comparison.png)
